@@ -1,7 +1,7 @@
 <img src="download.png" width="150" height="150" >
 
 ## Yellow Fin Tuna
-Amidst the influx of various cuisines and food specialties, seafood remains to be one of Davao City’s signature food offerings. The city is home to a lot of restaurants that serve the sea’s bounties, and one of the most famous destinations is Yellow Fin Seafood Restaurant.
+Seafood continues to be one of Davao City's distinctive food offers despite the advent of many cuisines and food specialties. There are several eateries in the city that provide seafood, but Yellow Fin Tuna Restaurant is among the most well-known.
 
 
 
@@ -13,17 +13,17 @@ Amidst the influx of various cuisines and food specialties, seafood remains to b
 
 ## Order System
 
-Order management starts when a customer places an order and ends once they receive their package or service. It allows a business to coordinate the entire fulfillment process — from order collection, inventory and delivery visibility to service availability. There are also a digital way to manage the lifecycle of an order. It tracks all the information and processes, including order entry, inventory management, fulfillment and after-sales service. An order system offers visibility to both the business and the buyer. Organizations can have near real-time insight into inventories and customers can check when an order will arrive. The workflow involved can differ based on a company’s needs, but a typical order management process includes different steps:
+The order system begins when customers place an order and ends when they receive their product. It enables a company to manage all aspects of order fulfillment, including order gathering, inventory management, delivery tracking, and service availability. An order's lifecycle can also be managed digitally. It records all data and operations, such as order entry, inventory control, order fulfillment, and post-sales support. The company and the customer have transparency, thanks to an order system. Customers can monitor the status of orders, and businesses can access almost real-time inventory information. Depending on a company's demands, the workflow can vary; however, a typical order system process consists of the following steps:
 
-* Placement
+* Placement of order by the customers
 
-	The customer places the order through an automated form. A sales team member checks the details and confirms the order.
+	The customer places the order. A sales team member checks the details and confirms the order.
 	
 * Fulfillment
 
-	A warehouse employee confirms shipping details, generates an invoice and fulfills the order — pick, pack and ship.
+	The warehouse employee verifies the shipping information, creates an invoice, and completes the order—picking, packing, and shipping.
 
 * Inventory Management
 
-	Inventory levels are monitored as they fluctuate with the demands of the business.
+	Inventory levels are tracked because they change in response to business demands.
 
