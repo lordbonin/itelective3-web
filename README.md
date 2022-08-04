@@ -17,13 +17,28 @@ The order system begins when customers place an order and ends when they receive
 
 * Placement of order by the customers
 
-	The customer places the order. A sales team member checks the details and confirms the order.
+	_The customer places the order. A sales team member checks the details and confirms the order._
 	
 * Fulfillment
 
-	The warehouse employee verifies the shipping information, creates an invoice, and completes the order—picking, packing, and shipping.
+	_The warehouse employee verifies the shipping information, creates an invoice, and completes the order—picking, packing, and shipping._
 
 * Inventory Management
 
-	Inventory levels are tracked because they change in response to business demands.
+	_Inventory levels are tracked because they change in response to business demands._
+	
+
+
+Sub-systems:
+
+
+1. **Customer**
+
+2. **Customer Service Rep**
+
+3. **Inventory System**
+
+5. **Credit System**
+
+7. **Order History**
 
