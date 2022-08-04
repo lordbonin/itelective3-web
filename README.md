@@ -8,7 +8,7 @@ Amidst the influx of various cuisines and food specialties, seafood remains to b
 ### Frameworks Used
 * Drupal
 
-<img src="download.png" width="150" height="150" >
+<img src="Wordmark2_blue_RGB(1).png" width="150" height="150" >
 
 ## Name of the System 
 One to two paragraph that describes the purpose of the system and some details of the system
