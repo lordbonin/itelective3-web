@@ -5,14 +5,16 @@ Amidst the influx of various cuisines and food specialties, seafood remains to b
 
 
 
-### Frameworks Used
+## Framework Used
+
 * Drupal
 
-<img src="Wordmark2_blue_RGB(1).png" width="150" height="150" >
+<img src="Wordmark2_blue_RGB(1).png" width="150" height="100" >
 
-## Name of the System 
-One to two paragraph that describes the purpose of the system and some details of the system
+## Order System
+An order system is a platform that tracks sales, orders, inventory, and fulfillment. It enables the people, processes, and partnerships necessary for products to find their way to the customers who bought them.
+
+Today, order management requires a multi-dimensional system that touches nearly every facet of how your business operates, including:
 
 ##### Enumerate the list of the possible sub-system
 
-inser kad
